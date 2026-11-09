@@ -1,0 +1,10 @@
+{
+  "name": "PocketStudio DSP",
+  "description": "A professional mobile-first multi-track audio editor with real-time DSP effects, waveform editing, and offline bouncing.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
